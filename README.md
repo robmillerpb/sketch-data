@@ -11,7 +11,7 @@ To remove the connection between your Data source and a layer, click Disconnect 
 
 Note: Disconnecting from a Data source won’t restore your layer’s original contents.
 
-How to Use Data with Symbols#
+## How to Use Data with Symbols ##
 You can add multiple Data sources to different layers within a Symbol and refresh them all at the same time.
 
 You can also add or refresh Data within a Symbol using the Data icon next to each Symbol override.
@@ -33,3 +33,5 @@ Angola
 
 ## Creating an Image Data Source ##
 For a new image Data source, all you need to do is create a folder with all the different images you want to use inside and add it via the Data tab in Preferences.
+
+https://www.sketch.com/docs/data/
